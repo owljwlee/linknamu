@@ -13,9 +13,9 @@ export type LinkItem = {
 };
 
 export const profile: Profile = {
-  name: "홍길동",
-  bio: "잠자고 싶은 부엉이",
-  imageUrl: "/profile-placeholder.svg",
+  name: "허준",
+  bio: "바이브 코딩 공부중",
+  imageUrl: "/profile.jpeg",
 };
 
 export const links: LinkItem[] = [
